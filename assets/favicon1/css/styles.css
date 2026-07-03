@@ -150,12 +150,12 @@ footer {
         line-height: 75px;
         margin: 0 0.5rem;
     }
-
-    /* Main content */
+ /* Main content */
     main {
         /* Push main content down to accommodate larger header */
         margin-top: 79px;
     }
+   
 }
     
 }
